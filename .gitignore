@@ -2,4 +2,5 @@
 .idea
 
 # trainer output
+gpt2
 test-trainer
